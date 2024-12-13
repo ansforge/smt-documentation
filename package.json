@@ -27,7 +27,7 @@
     "gulp-zip": "^5.1.0",
     "lighthouse": "^7.5",
     "merge-stream": "^2.0",
-    "postcss": "^8.2.15"
+    "postcss": "^8.4.31"
   },
   "browserslist": [
     "last 1 version",
