@@ -1,6 +1,4 @@
-.idea
-
-node_modules
-
-# Generated folders by gulp compilation
-# Add these folder for building site /site & /styleguide
+.DS_Store
+*/.DS_Store
+input-cache/*
+output/*
